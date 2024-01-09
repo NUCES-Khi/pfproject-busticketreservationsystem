@@ -1,0 +1,7 @@
+//bus id//seatnumber//nameofpassenger
+4 2 muneeb
+4 1 emaan
+4 2 dania
+4 3 yesaullah
+5 6 hamza
+7 8 havish
