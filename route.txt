@@ -1,0 +1,45 @@
+//pickup//destination//pickuptime//ticketprice
+Gulshan Johar 7:00 200.00
+lahore karcahi 10:00 800.00
+Malir Fast 10:00 500.00
+hyderabad multan 7 1700.00
+karachi lahore 9 1800.00
+karachi hyderabad 5:00 100.00
+tower fast 5:00 10.00
+Lahore Islamabad 8:30 1500.00
+Quetta Peshawar 6:45 2200.00
+Faisalabad Rawalpindi 7:15 1200.00
+Murree Naran 11:00 2500.00
+Gujranwala Sialkot 5:30 400.00
+Sukkur Larkana 8:45 300.00
+Bahawalpur Multan 6:30 800.00
+Sargodha Sahiwal 4:00 700.00
+Jhelum Gujrat 6:15 350.00
+Okara Sadiqabad 9:30 600.00
+Chakwal Taxila 7:00 200.00
+Sukkur Nawabshah 11:30 350.00
+Jacobabad Khairpur 9:15 180.00
+Attock Wah 10:30 120.00
+Bhakkar Layyah 8:00 250.00
+Khushab Mianwali 4:30 300.00
+Rahim Yar Khan Muzaffargarh 5:45 400.00
+Nankana Sahib Toba Tek Singh 6:00 320.00
+Dera Ismail Khan Tank 3:30 600.00
+Nowshera Haripur 12:00 180.00
+Sialkot Narowal 2:45 80.00
+Kohat Bannu 1:15 500.00
+Swabi Charsadda 4:45 150.00
+Mansehra Abbottabad 11:45 120.00
+Khanewal Vehari 10:45 300.00
+Rajanpur Kashmore 7:30 450.00
+Mandi Bahauddin Hafizabad 2:00 100.00
+Lodhran Khanpur 9:00 220.00
+Shikarpur Khairpur 5:15 120.00
+Jaranwala Chiniot 8:15 90.00
+Badin Thatta 3:15 200.00
+Jhang Toba Tek Singh 6:30 180.00
+Sheikhupura Kasur 7:45 150.00
+Karak Bannu 1:30 400.00
+Pakpattan Sahiwal 10:15 130.00
+Dadu Mirpur Khas 2:30 250.00
+
